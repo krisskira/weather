@@ -1,0 +1,198 @@
+[
+    {
+        "description": "Palmira, Valle del Cauca, Colombia",
+        "matched_substrings": [
+            {
+                "length": 7,
+                "offset": 0
+            }
+        ],
+        "place_id": "ChIJ7VzukugEOo4RepOnnYtiHWQ",
+        "reference": "ChIJ7VzukugEOo4RepOnnYtiHWQ",
+        "structured_formatting": {
+            "main_text": "Palmira",
+            "main_text_matched_substrings": [
+                {
+                    "length": 7,
+                    "offset": 0
+                }
+            ],
+            "secondary_text": "Valle del Cauca, Colombia"
+        },
+        "terms": [
+            {
+                "offset": 0,
+                "value": "Palmira"
+            },
+            {
+                "offset": 9,
+                "value": "Valle del Cauca"
+            },
+            {
+                "offset": 26,
+                "value": "Colombia"
+            }
+        ],
+        "types": [
+            "locality",
+            "political",
+            "geocode"
+        ]
+    },
+    {
+        "description": "Palmira, Provincia de Mendoza, Argentina",
+        "matched_substrings": [
+            {
+                "length": 7,
+                "offset": 0
+            }
+        ],
+        "place_id": "ChIJhzx71IBpfpYRdbIqmJRuQIA",
+        "reference": "ChIJhzx71IBpfpYRdbIqmJRuQIA",
+        "structured_formatting": {
+            "main_text": "Palmira",
+            "main_text_matched_substrings": [
+                {
+                    "length": 7,
+                    "offset": 0
+                }
+            ],
+            "secondary_text": "Provincia de Mendoza, Argentina"
+        },
+        "terms": [
+            {
+                "offset": 0,
+                "value": "Palmira"
+            },
+            {
+                "offset": 9,
+                "value": "Provincia de Mendoza"
+            },
+            {
+                "offset": 31,
+                "value": "Argentina"
+            }
+        ],
+        "types": [
+            "locality",
+            "political",
+            "geocode"
+        ]
+    },
+    {
+        "description": "Palmira, Ecuador",
+        "matched_substrings": [
+            {
+                "length": 7,
+                "offset": 0
+            }
+        ],
+        "place_id": "ChIJcazuCX700pERMvotyGUz37g",
+        "reference": "ChIJcazuCX700pERMvotyGUz37g",
+        "structured_formatting": {
+            "main_text": "Palmira",
+            "main_text_matched_substrings": [
+                {
+                    "length": 7,
+                    "offset": 0
+                }
+            ],
+            "secondary_text": "Ecuador"
+        },
+        "terms": [
+            {
+                "offset": 0,
+                "value": "Palmira"
+            },
+            {
+                "offset": 9,
+                "value": "Ecuador"
+            }
+        ],
+        "types": [
+            "locality",
+            "political",
+            "geocode"
+        ]
+    },
+    {
+        "description": "Palmira, Táchira, Venezuela",
+        "matched_substrings": [
+            {
+                "length": 7,
+                "offset": 0
+            }
+        ],
+        "place_id": "ChIJfykki6xuZo4R0M2v2k9_Yss",
+        "reference": "ChIJfykki6xuZo4R0M2v2k9_Yss",
+        "structured_formatting": {
+            "main_text": "Palmira",
+            "main_text_matched_substrings": [
+                {
+                    "length": 7,
+                    "offset": 0
+                }
+            ],
+            "secondary_text": "Táchira, Venezuela"
+        },
+        "terms": [
+            {
+                "offset": 0,
+                "value": "Palmira"
+            },
+            {
+                "offset": 9,
+                "value": "Táchira"
+            },
+            {
+                "offset": 18,
+                "value": "Venezuela"
+            }
+        ],
+        "types": [
+            "locality",
+            "political",
+            "geocode"
+        ]
+    },
+    {
+        "description": "Provincia de Guanacaste, Palmira, Costa Rica",
+        "matched_substrings": [
+            {
+                "length": 7,
+                "offset": 25
+            }
+        ],
+        "place_id": "ChIJuwtHrJvUn48ROgVBgyiob78",
+        "reference": "ChIJuwtHrJvUn48ROgVBgyiob78",
+        "structured_formatting": {
+            "main_text": "Palmira",
+            "main_text_matched_substrings": [
+                {
+                    "length": 7,
+                    "offset": 0
+                }
+            ],
+            "secondary_text": "Provincia de Guanacaste, Costa Rica"
+        },
+        "terms": [
+            {
+                "offset": 0,
+                "value": "Provincia de Guanacaste"
+            },
+            {
+                "offset": 25,
+                "value": "Palmira"
+            },
+            {
+                "offset": 34,
+                "value": "Costa Rica"
+            }
+        ],
+        "types": [
+            "locality",
+            "political",
+            "geocode"
+        ]
+    }
+]

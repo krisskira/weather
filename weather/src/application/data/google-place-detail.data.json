@@ -1,0 +1,130 @@
+{
+    "address_components": [
+        {
+            "long_name": "Nueva York",
+            "short_name": "Nueva York",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Nueva York",
+            "short_name": "NY",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Estados Unidos",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Nueva York</span>, <span class=\"country-name\">EE. UU.</span>",
+    "formatted_address": "Nueva York, EE. UU.",
+    "geometry": {
+        "location": {
+            "lat": 40.7127753,
+            "lng": -74.0059728
+        },
+        "viewport": {
+            "south": 40.47739906045452,
+            "west": -74.25908991427882,
+            "north": 40.91757705070789,
+            "east": -73.70027206817629
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Nueva York",
+    "photos": [
+        {
+            "height": 953,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114149657216581507592\">عبدالرؤوف خيرالله علي العبيدي</a>"
+            ],
+            "width": 720
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111428824511099804989\">bhupesh dawadi</a>"
+            ],
+            "width": 640
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108730284959684034787\">Rosie Noa</a>"
+            ],
+            "width": 4032
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102963383234797270062\">marisabel moreno indaburo</a>"
+            ],
+            "width": 2231
+        },
+        {
+            "height": 1104,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112969223608366468745\">Kors Chilland</a>"
+            ],
+            "width": 829
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106057762674104716095\">Achalasia</a>"
+            ],
+            "width": 3696
+        },
+        {
+            "height": 1334,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104735590814239688370\">The Maruca Group</a>"
+            ],
+            "width": 2000
+        },
+        {
+            "height": 2880,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107620462878197829243\">Md Moniruzzaman</a>"
+            ],
+            "width": 5936
+        },
+        {
+            "height": 3072,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108785287014633573681\">Juan Cruz Seminara</a>"
+            ],
+            "width": 4080
+        },
+        {
+            "height": 533,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110012216588911435300\">Victor Israel</a>"
+            ],
+            "width": 800
+        }
+    ],
+    "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+    "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+    "types": [
+        "locality",
+        "political"
+    ],
+    "url": "https://maps.google.com/?q=Nueva+York,+EE.+UU.&ftid=0x89c24fa5d33f083b:0xc80b8f06e177fe62",
+    "utc_offset": -240,
+    "vicinity": "Nueva York",
+    "website": "http://www.nyc.gov/",
+    "html_attributions": [],
+    "utc_offset_minutes": -240
+}

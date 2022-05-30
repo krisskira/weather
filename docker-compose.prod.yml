@@ -1,0 +1,30 @@
+version: '3.9'
+
+services:
+  app:
+    image: app:dev
+    container_name: weather-app
+    restart: always
+    working_dir: /app
+    env_file:
+      - .env
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        VITE_BACKEND_URL: ${VITE_BACKEND_URL}
+        VITE_WEATHER_API: ${VITE_WEATHER_API}
+        VITE_GOOGLE_PLACES_API: ${VITE_GOOGLE_PLACES_API}
+    environment:
+        - PORT=${PORT}
+        - JWT_SECRET_TOKEN=${JWT_SECRET_TOKEN}
+        - DATABASE_URL=${DATABASE_URL}
+    ports:
+      - "80:80"
+    networks:
+      - app
+
+networks:
+  app:
+    driver: bridge
+    name: app
